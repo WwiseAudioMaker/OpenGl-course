@@ -1,1 +1,1 @@
-# OpenGl-course
+# OpenGl-final project
